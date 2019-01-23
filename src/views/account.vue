@@ -93,7 +93,7 @@
           </el-row>
           <el-row type="flex" align="middle" justify="center" style="text-align:center">
               <el-col :span='11'>
-                <p class="middle-count"><a href="http://www.abochain.io/ABO_v1.4.1.apk"><img src="../assets/img/app/android.png" alt=""></a></p>
+                <p class="middle-count"><a href="http://www.abochain.io/ABO_v1.4.2.apk"><img src="../assets/img/app/android.png" alt=""></a></p>
               </el-col>
               <el-col :span='11' :offset="1">
                 <!-- href = itms-services://?action=download-manifest&url=https://www.abochain.io/manifest.plist -->

@@ -2,7 +2,7 @@
   <div class="downLoad">
     <img src="../assets/img/app/bg2.png" alt="" class="bg">
     <img src="../assets/img/app/androidDownload.png" alt="" class='bgDownLoad hidden'>
-    <a href="http://www.abochain.io/ABO_v1.4.1.apk"><img src="../assets/img/app/android.png" alt="" class="bt android" @click="downLoad()"></a>
+    <a href="http://www.abochain.io/ABO_v1.4.2.apk"><img src="../assets/img/app/android.png" alt="" class="bt android" @click="downLoad()"></a>
     <!-- href = itms-services://?action=download-manifest&url=https://www.abochain.io/manifest.plist -->
     <a href="itms-services://?action=download-manifest&url=https://plist.gunchung.com/com.aboCompany.ABOIOS_1542703236.plist"><img src="../assets/img/app/ios.png" alt="" class="bt ios"></a>
   </div>
