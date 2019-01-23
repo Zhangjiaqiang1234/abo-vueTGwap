@@ -97,7 +97,7 @@
               </el-col>
               <el-col :span='11' :offset="1">
                 <!-- href = itms-services://?action=download-manifest&url=https://www.abochain.io/manifest.plist -->
-                <p class="middle-count"><a href="itms-services://?action=download-manifest&url=https://plist.gunchung.com/com.aboCompany.ABOIOS_1542703236.plist"><img src="../assets/img/app/ios.png" alt=""></a></p>
+                <p class="middle-count"><a href="https://itunes.apple.com/cn/app/id1443708821"><img src="../assets/img/app/ios.png" alt=""></a></p>
               </el-col>
           </el-row>
         </el-row>
